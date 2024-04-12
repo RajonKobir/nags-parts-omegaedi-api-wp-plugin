@@ -1,0 +1,198 @@
+[
+    {
+        "make_id": "2",
+        "make_name": "Acura"
+    },
+    {
+        "make_id": "371",
+        "make_name": "Alfa Romeo/Chrysler"
+    },
+    {
+        "make_id": "6",
+        "make_name": "Audi"
+    },
+    {
+        "make_id": "51",
+        "make_name": "Autocar"
+    },
+    {
+        "make_id": "622",
+        "make_name": "BAIC"
+    },
+    {
+        "make_id": "7",
+        "make_name": "BMW"
+    },
+    {
+        "make_id": "682",
+        "make_name": "BrightDrop"
+    },
+    {
+        "make_id": "8",
+        "make_name": "Buick"
+    },
+    {
+        "make_id": "57",
+        "make_name": "Cadillac"
+    },
+    {
+        "make_id": "59",
+        "make_name": "Chevrolet"
+    },
+    {
+        "make_id": "60",
+        "make_name": "Chrysler"
+    },
+    {
+        "make_id": "762",
+        "make_name": "Cupra"
+    },
+    {
+        "make_id": "66",
+        "make_name": "Dodge"
+    },
+    {
+        "make_id": "370",
+        "make_name": "Fiat/Chrysler"
+    },
+    {
+        "make_id": "13",
+        "make_name": "Ford"
+    },
+    {
+        "make_id": "67",
+        "make_name": "Freightliner"
+    },
+    {
+        "make_id": "582",
+        "make_name": "Genesis"
+    },
+    {
+        "make_id": "16",
+        "make_name": "GMC"
+    },
+    {
+        "make_id": "18",
+        "make_name": "Hino"
+    },
+    {
+        "make_id": "19",
+        "make_name": "Honda"
+    },
+    {
+        "make_id": "69",
+        "make_name": "Hyundai"
+    },
+    {
+        "make_id": "70",
+        "make_name": "Infiniti"
+    },
+    {
+        "make_id": "21",
+        "make_name": "Isuzu"
+    },
+    {
+        "make_id": "72",
+        "make_name": "Jaguar"
+    },
+    {
+        "make_id": "23",
+        "make_name": "Jeep"
+    },
+    {
+        "make_id": "73",
+        "make_name": "Kenworth"
+    },
+    {
+        "make_id": "24",
+        "make_name": "Kia"
+    },
+    {
+        "make_id": "89",
+        "make_name": "Land Rover"
+    },
+    {
+        "make_id": "27",
+        "make_name": "Lexus"
+    },
+    {
+        "make_id": "74",
+        "make_name": "Lincoln"
+    },
+    {
+        "make_id": "76",
+        "make_name": "Maserati"
+    },
+    {
+        "make_id": "29",
+        "make_name": "Mazda"
+    },
+    {
+        "make_id": "30",
+        "make_name": "Mercedes Benz"
+    },
+    {
+        "make_id": "32",
+        "make_name": "MG"
+    },
+    {
+        "make_id": "222",
+        "make_name": "Mini"
+    },
+    {
+        "make_id": "78",
+        "make_name": "Mitsubishi"
+    },
+    {
+        "make_id": "81",
+        "make_name": "Nissan"
+    },
+    {
+        "make_id": "84",
+        "make_name": "Peterbilt"
+    },
+    {
+        "make_id": "702",
+        "make_name": "Polestar"
+    },
+    {
+        "make_id": "88",
+        "make_name": "Porsche"
+    },
+    {
+        "make_id": "482",
+        "make_name": "Ram"
+    },
+    {
+        "make_id": "90",
+        "make_name": "Renault"
+    },
+    {
+        "make_id": "722",
+        "make_name": "Rivian"
+    },
+    {
+        "make_id": "93",
+        "make_name": "Subaru"
+    },
+    {
+        "make_id": "95",
+        "make_name": "Suzuki"
+    },
+    {
+        "make_id": "542",
+        "make_name": "Tesla"
+    },
+    {
+        "make_id": "96",
+        "make_name": "Toyota"
+    },
+    {
+        "make_id": "98",
+        "make_name": "Volkswagen"
+    },
+    {
+        "make_id": "40",
+        "make_name": "Volvo"
+    }
+]

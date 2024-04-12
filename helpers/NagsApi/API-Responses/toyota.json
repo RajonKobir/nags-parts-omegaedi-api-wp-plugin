@@ -1,0 +1,152 @@
+[
+    {
+        "model_id": "1512",
+        "model_name": "4Runner",
+        "modifier_id": null,
+        "modifier_dsc": null
+    },
+    {
+        "model_id": "1495",
+        "model_name": "Avalon",
+        "modifier_id": null,
+        "modifier_dsc": null
+    },
+    {
+        "model_id": "1495",
+        "model_name": "Avalon",
+        "modifier_id": "101",
+        "modifier_dsc": "Hybrid"
+    },
+    {
+        "model_id": "6726",
+        "model_name": "Avanza",
+        "modifier_id": "202",
+        "modifier_dsc": "(Mex)"
+    },
+    {
+        "model_id": "12431",
+        "model_name": "C-HR",
+        "modifier_id": null,
+        "modifier_dsc": null
+    },
+    {
+        "model_id": "1496",
+        "model_name": "Camry",
+        "modifier_id": null,
+        "modifier_dsc": null
+    },
+    {
+        "model_id": "1496",
+        "model_name": "Camry",
+        "modifier_id": "101",
+        "modifier_dsc": "Hybrid"
+    },
+    {
+        "model_id": "1499",
+        "model_name": "Corolla",
+        "modifier_id": null,
+        "modifier_dsc": null
+    },
+    {
+        "model_id": "5366",
+        "model_name": "Hiace",
+        "modifier_id": "202",
+        "modifier_dsc": "(Mex)"
+    },
+    {
+        "model_id": "2695",
+        "model_name": "Highlander",
+        "modifier_id": null,
+        "modifier_dsc": null
+    },
+    {
+        "model_id": "5410",
+        "model_name": "Hilux",
+        "modifier_id": "202",
+        "modifier_dsc": "(Mex)"
+    },
+    {
+        "model_id": "1518",
+        "model_name": "Land Cruiser",
+        "modifier_id": null,
+        "modifier_dsc": null
+    },
+    {
+        "model_id": "2076",
+        "model_name": "Prius",
+        "modifier_id": null,
+        "modifier_dsc": null
+    },
+    {
+        "model_id": "9626",
+        "model_name": "Prius c",
+        "modifier_id": "202",
+        "modifier_dsc": "(Mex)"
+    },
+    {
+        "model_id": "12568",
+        "model_name": "Prius Prime",
+        "modifier_id": null,
+        "modifier_dsc": null
+    },
+    {
+        "model_id": "1511",
+        "model_name": "RAV4",
+        "modifier_id": null,
+        "modifier_dsc": null
+    },
+    {
+        "model_id": "1511",
+        "model_name": "RAV4",
+        "modifier_id": "101",
+        "modifier_dsc": "Hybrid"
+    },
+    {
+        "model_id": "14366",
+        "model_name": "RAV4 Prime",
+        "modifier_id": null,
+        "modifier_dsc": null
+    },
+    {
+        "model_id": "2555",
+        "model_name": "Sequoia",
+        "modifier_id": null,
+        "modifier_dsc": null
+    },
+    {
+        "model_id": "1519",
+        "model_name": "Sienna",
+        "modifier_id": null,
+        "modifier_dsc": null
+    },
+    {
+        "model_id": "1507",
+        "model_name": "Supra",
+        "modifier_id": null,
+        "modifier_dsc": null
+    },
+    {
+        "model_id": "1509",
+        "model_name": "Tacoma Pickup",
+        "modifier_id": null,
+        "modifier_dsc": null
+    },
+    {
+        "model_id": "1583",
+        "model_name": "Tundra Pickup",
+        "modifier_id": null,
+        "modifier_dsc": null
+    },
+    {
+        "model_id": "7726",
+        "model_name": "Venza",
+        "modifier_id": null,
+        "modifier_dsc": null
+    },
+    {
+        "model_id": "4924",
+        "model_name": "Yaris",
+        "modifier_id": null,
+        "modifier_dsc": null
+    }
+]

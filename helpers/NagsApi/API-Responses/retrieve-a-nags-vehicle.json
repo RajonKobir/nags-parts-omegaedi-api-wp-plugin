@@ -1,0 +1,1867 @@
+{
+    "year": "2021",
+    "make_id": "96",
+    "make_name": "Toyota",
+    "model_id": "1496",
+    "model_name": "Camry",
+    "body_style_id": "190",
+    "body_style_dsc": "4 Door Sedan",
+    "modifier_id": null,
+    "modifier_dsc": null,
+    "graphic_id": "044I0141",
+    "vin_pattern": null,
+    "NagsGlass": [
+        {
+            "prefix_cd": "FD",
+            "part_num": "27404",
+            "ant_flag": "N",
+            "blk_size1": "20.25",
+            "blk_size2": "36.50",
+            "encap_flag": "N",
+            "hds_up_disp_flag": "N",
+            "heated_flag": "N",
+            "num_holes": null,
+            "slider_flag": "N",
+            "solar_flag": "Y",
+            "superseding_dt": null,
+            "superseding_nags_glass_id": null,
+            "thickness": "5.00",
+            "wt": null,
+            "tube_qty": "1.5",
+            "adas": false,
+            "Qualifiers": [
+                {
+                    "qual_cd": "1654",
+                    "dsc": "US Built",
+                    "category_id": "9",
+                    "category": "Country"
+                },
+                {
+                    "qual_cd": "1976",
+                    "dsc": "Solar",
+                    "category_id": "11",
+                    "category": "Desc"
+                }
+            ],
+            "Configurations": [
+                {
+                    "nags_part_number": "FD27404GTYN",
+                    "atchmnt_flag": "Y",
+                    "clips_flag": "N",
+                    "mlding_flag": "N",
+                    "atchmnt_is_clip": "Y",
+                    "atchmnt_is_mlding": "N",
+                    "atchmnt_dsc": "CLIPS",
+                    "nags_labor": "1.3",
+                    "glass_color_cd": "GT",
+                    "glass_color_dsc": "Green Tint",
+                    "prem_flag": "N",
+                    "region_cd": "U",
+                    "avail_cd": "H",
+                    "eff_dt": "2023-09-05 00:00:00.000000",
+                    "prc": "233.94",
+                    "prc_status_cd": "A",
+                    "spcl_prc_cd": null,
+                    "score": 0,
+                    "procedure_id": 0,
+                    "true_net_data": {
+                        "sku": "FD27404GTYN",
+                        "mean": "110.92",
+                        "median": "111.40",
+                        "std_deviation": "40.03479386538898",
+                        "lower_percentile": "38.85",
+                        "upper_percentile": "200.00"
+                    }
+                }
+            ],
+            "Interchange": [],
+            "Notes": [],
+            "Vehicles": [],
+            "id": "FD27404",
+            "description": "Door (US Built, Solar) - Front Right",
+            "Annotations": [],
+            "price": "233.94",
+            "type": "FD",
+            "mf_id": null,
+            "default": true,
+            "sale_item_id": 1000,
+            "taxable": 1,
+            "OEM": [
+                {
+                    "mf_id": "044",
+                    "oem_glass_id": "68101-06340",
+                    "nags_glass_id": "FD27404",
+                    "mf_name": "Toyota",
+                    "mf_abbrev": "TOYOTA",
+                    "glass_color_cd": "GT",
+                    "atchmnt_flag": "Y",
+                    "price": "313.47",
+                    "price_status": "Active",
+                    "oem_eff_dt": "2023-01-01 00:00:00.000000",
+                    "superseding_oem_glass_id": null,
+                    "Qualifiers": []
+                }
+            ],
+            "Positions": [
+                {
+                    "side": "RIGHT",
+                    "position": "FRONT",
+                    "relative_location": null,
+                    "pos_cd": "F",
+                    "opening_type_cd": "DR",
+                    "side_cd": "R",
+                    "rel_loc_cd": null
+                }
+            ],
+            "cost_type": "PART"
+        },
+        {
+            "prefix_cd": "FD",
+            "part_num": "27405",
+            "ant_flag": "N",
+            "blk_size1": "20.25",
+            "blk_size2": "36.50",
+            "encap_flag": "N",
+            "hds_up_disp_flag": "N",
+            "heated_flag": "N",
+            "num_holes": null,
+            "slider_flag": "N",
+            "solar_flag": "Y",
+            "superseding_dt": null,
+            "superseding_nags_glass_id": null,
+            "thickness": "5.00",
+            "wt": null,
+            "tube_qty": "1.5",
+            "adas": false,
+            "Qualifiers": [
+                {
+                    "qual_cd": "1654",
+                    "dsc": "US Built",
+                    "category_id": "9",
+                    "category": "Country"
+                },
+                {
+                    "qual_cd": "1976",
+                    "dsc": "Solar",
+                    "category_id": "11",
+                    "category": "Desc"
+                }
+            ],
+            "Configurations": [
+                {
+                    "nags_part_number": "FD27405GTYN",
+                    "atchmnt_flag": "Y",
+                    "clips_flag": "N",
+                    "mlding_flag": "N",
+                    "atchmnt_is_clip": "Y",
+                    "atchmnt_is_mlding": "N",
+                    "atchmnt_dsc": "CLIPS",
+                    "nags_labor": "1.3",
+                    "glass_color_cd": "GT",
+                    "glass_color_dsc": "Green Tint",
+                    "prem_flag": "N",
+                    "region_cd": "U",
+                    "avail_cd": "H",
+                    "eff_dt": "2023-09-05 00:00:00.000000",
+                    "prc": "233.94",
+                    "prc_status_cd": "A",
+                    "spcl_prc_cd": null,
+                    "score": 0,
+                    "procedure_id": 0,
+                    "true_net_data": {
+                        "sku": "FD27405GTYN",
+                        "mean": "106.98",
+                        "median": "110.00",
+                        "std_deviation": "37.83025140177632",
+                        "lower_percentile": "39.23",
+                        "upper_percentile": "198.91"
+                    }
+                }
+            ],
+            "Interchange": [],
+            "Notes": [],
+            "Vehicles": [],
+            "id": "FD27405",
+            "description": "Door (US Built, Solar) - Front Left",
+            "Annotations": [],
+            "price": "233.94",
+            "type": "FD",
+            "mf_id": null,
+            "default": true,
+            "sale_item_id": 1000,
+            "taxable": 1,
+            "OEM": [
+                {
+                    "mf_id": "044",
+                    "oem_glass_id": "68102-06340",
+                    "nags_glass_id": "FD27405",
+                    "mf_name": "Toyota",
+                    "mf_abbrev": "TOYOTA",
+                    "glass_color_cd": "GT",
+                    "atchmnt_flag": "Y",
+                    "price": "313.47",
+                    "price_status": "Active",
+                    "oem_eff_dt": "2023-01-01 00:00:00.000000",
+                    "superseding_oem_glass_id": null,
+                    "Qualifiers": []
+                }
+            ],
+            "Positions": [
+                {
+                    "side": "LEFT",
+                    "position": "FRONT",
+                    "relative_location": null,
+                    "pos_cd": "F",
+                    "opening_type_cd": "DR",
+                    "side_cd": "L",
+                    "rel_loc_cd": null
+                }
+            ],
+            "cost_type": "PART"
+        },
+        {
+            "prefix_cd": "FD",
+            "part_num": "27406",
+            "ant_flag": "N",
+            "blk_size1": "20.25",
+            "blk_size2": "24.75",
+            "encap_flag": "N",
+            "hds_up_disp_flag": "N",
+            "heated_flag": "N",
+            "num_holes": null,
+            "slider_flag": "N",
+            "solar_flag": "Y",
+            "superseding_dt": null,
+            "superseding_nags_glass_id": null,
+            "thickness": null,
+            "wt": null,
+            "tube_qty": "1.0",
+            "adas": false,
+            "Qualifiers": [
+                {
+                    "qual_cd": "1654",
+                    "dsc": "US Built",
+                    "category_id": "9",
+                    "category": "Country"
+                },
+                {
+                    "qual_cd": "1976",
+                    "dsc": "Solar",
+                    "category_id": "11",
+                    "category": "Desc"
+                }
+            ],
+            "Configurations": [
+                {
+                    "nags_part_number": "FD27406GTYN",
+                    "atchmnt_flag": "Y",
+                    "clips_flag": "N",
+                    "mlding_flag": "N",
+                    "atchmnt_is_clip": "N",
+                    "atchmnt_is_mlding": "N",
+                    "atchmnt_dsc": "HARDWARE",
+                    "nags_labor": "1.8",
+                    "glass_color_cd": "GT",
+                    "glass_color_dsc": "Green Tint",
+                    "prem_flag": "N",
+                    "region_cd": "U",
+                    "avail_cd": "H",
+                    "eff_dt": "2023-09-05 00:00:00.000000",
+                    "prc": "278.05",
+                    "prc_status_cd": "A",
+                    "spcl_prc_cd": null,
+                    "score": 0,
+                    "procedure_id": 0,
+                    "true_net_data": {
+                        "sku": "FD27406GTYN",
+                        "mean": "129.23",
+                        "median": "132.62",
+                        "std_deviation": "35.95877193819128",
+                        "lower_percentile": "68.75",
+                        "upper_percentile": "200.00"
+                    }
+                }
+            ],
+            "Interchange": [],
+            "Notes": [],
+            "Vehicles": [],
+            "id": "FD27406",
+            "description": "Door (US Built, Solar) - Rear Right",
+            "Annotations": [],
+            "price": "278.05",
+            "type": "FD",
+            "mf_id": null,
+            "default": true,
+            "sale_item_id": 1000,
+            "taxable": 1,
+            "OEM": [
+                {
+                    "mf_id": "044",
+                    "oem_glass_id": "68103-06300",
+                    "nags_glass_id": "FD27406",
+                    "mf_name": "Toyota",
+                    "mf_abbrev": "TOYOTA",
+                    "glass_color_cd": "GT",
+                    "atchmnt_flag": "Y",
+                    "price": "240.25",
+                    "price_status": "Active",
+                    "oem_eff_dt": "2023-01-01 00:00:00.000000",
+                    "superseding_oem_glass_id": null,
+                    "Qualifiers": []
+                }
+            ],
+            "Positions": [
+                {
+                    "side": "RIGHT",
+                    "position": "REAR",
+                    "relative_location": null,
+                    "pos_cd": "R",
+                    "opening_type_cd": "DR",
+                    "side_cd": "R",
+                    "rel_loc_cd": null
+                }
+            ],
+            "cost_type": "PART"
+        },
+        {
+            "prefix_cd": "FD",
+            "part_num": "27407",
+            "ant_flag": "N",
+            "blk_size1": "20.25",
+            "blk_size2": "24.75",
+            "encap_flag": "N",
+            "hds_up_disp_flag": "N",
+            "heated_flag": "N",
+            "num_holes": null,
+            "slider_flag": "N",
+            "solar_flag": "Y",
+            "superseding_dt": null,
+            "superseding_nags_glass_id": null,
+            "thickness": null,
+            "wt": null,
+            "tube_qty": "1.0",
+            "adas": false,
+            "Qualifiers": [
+                {
+                    "qual_cd": "1654",
+                    "dsc": "US Built",
+                    "category_id": "9",
+                    "category": "Country"
+                },
+                {
+                    "qual_cd": "1976",
+                    "dsc": "Solar",
+                    "category_id": "11",
+                    "category": "Desc"
+                }
+            ],
+            "Configurations": [
+                {
+                    "nags_part_number": "FD27407GTYN",
+                    "atchmnt_flag": "Y",
+                    "clips_flag": "N",
+                    "mlding_flag": "N",
+                    "atchmnt_is_clip": "N",
+                    "atchmnt_is_mlding": "N",
+                    "atchmnt_dsc": "HARDWARE",
+                    "nags_labor": "1.8",
+                    "glass_color_cd": "GT",
+                    "glass_color_dsc": "Green Tint",
+                    "prem_flag": "N",
+                    "region_cd": "U",
+                    "avail_cd": "H",
+                    "eff_dt": "2023-09-05 00:00:00.000000",
+                    "prc": "278.05",
+                    "prc_status_cd": "A",
+                    "spcl_prc_cd": null,
+                    "score": 0,
+                    "procedure_id": 0,
+                    "true_net_data": {
+                        "sku": "FD27407GTYN",
+                        "mean": "123.45",
+                        "median": "125.72",
+                        "std_deviation": "34.969772619710824",
+                        "lower_percentile": "54.97",
+                        "upper_percentile": "199.01"
+                    }
+                }
+            ],
+            "Interchange": [],
+            "Notes": [],
+            "Vehicles": [],
+            "id": "FD27407",
+            "description": "Door (US Built, Solar) - Rear Left",
+            "Annotations": [],
+            "price": "278.05",
+            "type": "FD",
+            "mf_id": null,
+            "default": true,
+            "sale_item_id": 1000,
+            "taxable": 1,
+            "OEM": [
+                {
+                    "mf_id": "044",
+                    "oem_glass_id": "68104-06290",
+                    "nags_glass_id": "FD27407",
+                    "mf_name": "Toyota",
+                    "mf_abbrev": "TOYOTA",
+                    "glass_color_cd": "GT",
+                    "atchmnt_flag": "Y",
+                    "price": "240.25",
+                    "price_status": "Active",
+                    "oem_eff_dt": "2023-01-01 00:00:00.000000",
+                    "superseding_oem_glass_id": null,
+                    "Qualifiers": []
+                }
+            ],
+            "Positions": [
+                {
+                    "side": "LEFT",
+                    "position": "REAR",
+                    "relative_location": null,
+                    "pos_cd": "R",
+                    "opening_type_cd": "DR",
+                    "side_cd": "L",
+                    "rel_loc_cd": null
+                }
+            ],
+            "cost_type": "PART"
+        },
+        {
+            "prefix_cd": "FD",
+            "part_num": "27552",
+            "ant_flag": "N",
+            "blk_size1": "0.00",
+            "blk_size2": "0.00",
+            "encap_flag": "N",
+            "hds_up_disp_flag": "N",
+            "heated_flag": "N",
+            "num_holes": null,
+            "slider_flag": "N",
+            "solar_flag": "Y",
+            "superseding_dt": null,
+            "superseding_nags_glass_id": null,
+            "thickness": null,
+            "wt": null,
+            "tube_qty": "1.5",
+            "adas": false,
+            "Qualifiers": [
+                {
+                    "qual_cd": "1005",
+                    "dsc": "Japan Built",
+                    "category_id": "9",
+                    "category": "Country"
+                },
+                {
+                    "qual_cd": "1976",
+                    "dsc": "Solar",
+                    "category_id": "11",
+                    "category": "Desc"
+                }
+            ],
+            "Configurations": [
+                {
+                    "nags_part_number": "FD27552GTYN",
+                    "atchmnt_flag": "Y",
+                    "clips_flag": "N",
+                    "mlding_flag": "N",
+                    "atchmnt_is_clip": "Y",
+                    "atchmnt_is_mlding": "N",
+                    "atchmnt_dsc": "CLIPS",
+                    "nags_labor": "1.2",
+                    "glass_color_cd": "GT",
+                    "glass_color_dsc": "Green Tint",
+                    "prem_flag": "N",
+                    "region_cd": "U",
+                    "avail_cd": "H",
+                    "eff_dt": "2023-09-05 00:00:00.000000",
+                    "prc": "882.95",
+                    "prc_status_cd": "A",
+                    "spcl_prc_cd": null,
+                    "score": 0,
+                    "procedure_id": 0,
+                    "true_net_data": null
+                }
+            ],
+            "Interchange": [],
+            "Notes": [],
+            "Vehicles": [],
+            "id": "FD27552",
+            "description": "Door (Japan Built, Solar) - Front Right",
+            "Annotations": [],
+            "price": "882.95",
+            "type": "FD",
+            "mf_id": null,
+            "default": true,
+            "sale_item_id": 1000,
+            "taxable": 1,
+            "OEM": [
+                {
+                    "mf_id": "044",
+                    "oem_glass_id": "68101-33330",
+                    "nags_glass_id": "FD27552",
+                    "mf_name": "Toyota",
+                    "mf_abbrev": "TOYOTA",
+                    "glass_color_cd": "GT",
+                    "atchmnt_flag": "Y",
+                    "price": "328.62",
+                    "price_status": "Active",
+                    "oem_eff_dt": "2023-07-01 00:00:00.000000",
+                    "superseding_oem_glass_id": null,
+                    "Qualifiers": []
+                }
+            ],
+            "Positions": [
+                {
+                    "side": "RIGHT",
+                    "position": "FRONT",
+                    "relative_location": null,
+                    "pos_cd": "F",
+                    "opening_type_cd": "DR",
+                    "side_cd": "R",
+                    "rel_loc_cd": null
+                }
+            ],
+            "cost_type": "PART"
+        },
+        {
+            "prefix_cd": "FD",
+            "part_num": "27553",
+            "ant_flag": "N",
+            "blk_size1": "0.00",
+            "blk_size2": "0.00",
+            "encap_flag": "N",
+            "hds_up_disp_flag": "N",
+            "heated_flag": "N",
+            "num_holes": null,
+            "slider_flag": "N",
+            "solar_flag": "Y",
+            "superseding_dt": null,
+            "superseding_nags_glass_id": null,
+            "thickness": null,
+            "wt": null,
+            "tube_qty": "1.5",
+            "adas": false,
+            "Qualifiers": [
+                {
+                    "qual_cd": "1005",
+                    "dsc": "Japan Built",
+                    "category_id": "9",
+                    "category": "Country"
+                },
+                {
+                    "qual_cd": "1976",
+                    "dsc": "Solar",
+                    "category_id": "11",
+                    "category": "Desc"
+                }
+            ],
+            "Configurations": [
+                {
+                    "nags_part_number": "FD27553GTYN",
+                    "atchmnt_flag": "Y",
+                    "clips_flag": "N",
+                    "mlding_flag": "N",
+                    "atchmnt_is_clip": "Y",
+                    "atchmnt_is_mlding": "N",
+                    "atchmnt_dsc": "CLIPS",
+                    "nags_labor": "1.2",
+                    "glass_color_cd": "GT",
+                    "glass_color_dsc": "Green Tint",
+                    "prem_flag": "N",
+                    "region_cd": "U",
+                    "avail_cd": "H",
+                    "eff_dt": "2023-09-05 00:00:00.000000",
+                    "prc": "882.95",
+                    "prc_status_cd": "A",
+                    "spcl_prc_cd": null,
+                    "score": 0,
+                    "procedure_id": 0,
+                    "true_net_data": null
+                }
+            ],
+            "Interchange": [],
+            "Notes": [],
+            "Vehicles": [],
+            "id": "FD27553",
+            "description": "Door (Japan Built, Solar) - Front Left",
+            "Annotations": [],
+            "price": "882.95",
+            "type": "FD",
+            "mf_id": null,
+            "default": true,
+            "sale_item_id": 1000,
+            "taxable": 1,
+            "OEM": [
+                {
+                    "mf_id": "044",
+                    "oem_glass_id": "68102-33340",
+                    "nags_glass_id": "FD27553",
+                    "mf_name": "Toyota",
+                    "mf_abbrev": "TOYOTA",
+                    "glass_color_cd": "GT",
+                    "atchmnt_flag": "Y",
+                    "price": "328.62",
+                    "price_status": "Active",
+                    "oem_eff_dt": "2023-07-01 00:00:00.000000",
+                    "superseding_oem_glass_id": null,
+                    "Qualifiers": []
+                }
+            ],
+            "Positions": [
+                {
+                    "side": "LEFT",
+                    "position": "FRONT",
+                    "relative_location": null,
+                    "pos_cd": "F",
+                    "opening_type_cd": "DR",
+                    "side_cd": "L",
+                    "rel_loc_cd": null
+                }
+            ],
+            "cost_type": "PART"
+        },
+        {
+            "prefix_cd": "FD",
+            "part_num": "27554",
+            "ant_flag": "N",
+            "blk_size1": "0.00",
+            "blk_size2": "0.00",
+            "encap_flag": "N",
+            "hds_up_disp_flag": "N",
+            "heated_flag": "N",
+            "num_holes": null,
+            "slider_flag": "N",
+            "solar_flag": "Y",
+            "superseding_dt": null,
+            "superseding_nags_glass_id": null,
+            "thickness": null,
+            "wt": null,
+            "tube_qty": "1.5",
+            "adas": false,
+            "Qualifiers": [
+                {
+                    "qual_cd": "1005",
+                    "dsc": "Japan Built",
+                    "category_id": "9",
+                    "category": "Country"
+                },
+                {
+                    "qual_cd": "1976",
+                    "dsc": "Solar",
+                    "category_id": "11",
+                    "category": "Desc"
+                }
+            ],
+            "Configurations": [
+                {
+                    "nags_part_number": "FD27554GTNN",
+                    "atchmnt_flag": "N",
+                    "clips_flag": "N",
+                    "mlding_flag": "N",
+                    "atchmnt_is_clip": "N",
+                    "atchmnt_is_mlding": "N",
+                    "atchmnt_dsc": null,
+                    "nags_labor": "1.8",
+                    "glass_color_cd": "GT",
+                    "glass_color_dsc": "Green Tint",
+                    "prem_flag": "N",
+                    "region_cd": "U",
+                    "avail_cd": "H",
+                    "eff_dt": "2023-09-05 00:00:00.000000",
+                    "prc": "647.35",
+                    "prc_status_cd": "A",
+                    "spcl_prc_cd": null,
+                    "score": 0,
+                    "procedure_id": 0,
+                    "true_net_data": null
+                }
+            ],
+            "Interchange": [],
+            "Notes": [],
+            "Vehicles": [],
+            "id": "FD27554",
+            "description": "Door (Japan Built, Solar) - Rear Right",
+            "Annotations": [],
+            "price": "647.35",
+            "type": "FD",
+            "mf_id": null,
+            "default": true,
+            "sale_item_id": 1000,
+            "taxable": 1,
+            "OEM": [
+                {
+                    "mf_id": "044",
+                    "oem_glass_id": "68113-33290",
+                    "nags_glass_id": "FD27554",
+                    "mf_name": "Toyota",
+                    "mf_abbrev": "TOYOTA",
+                    "glass_color_cd": "GT",
+                    "atchmnt_flag": "N",
+                    "price": "217.58",
+                    "price_status": "Active",
+                    "oem_eff_dt": "2023-07-01 00:00:00.000000",
+                    "superseding_oem_glass_id": null,
+                    "Qualifiers": []
+                }
+            ],
+            "Positions": [
+                {
+                    "side": "RIGHT",
+                    "position": "REAR",
+                    "relative_location": null,
+                    "pos_cd": "R",
+                    "opening_type_cd": "DR",
+                    "side_cd": "R",
+                    "rel_loc_cd": null
+                }
+            ],
+            "cost_type": "PART"
+        },
+        {
+            "prefix_cd": "FD",
+            "part_num": "27555",
+            "ant_flag": "N",
+            "blk_size1": "0.00",
+            "blk_size2": "0.00",
+            "encap_flag": "N",
+            "hds_up_disp_flag": "N",
+            "heated_flag": "N",
+            "num_holes": null,
+            "slider_flag": "N",
+            "solar_flag": "Y",
+            "superseding_dt": null,
+            "superseding_nags_glass_id": null,
+            "thickness": null,
+            "wt": null,
+            "tube_qty": "1.5",
+            "adas": false,
+            "Qualifiers": [
+                {
+                    "qual_cd": "1005",
+                    "dsc": "Japan Built",
+                    "category_id": "9",
+                    "category": "Country"
+                },
+                {
+                    "qual_cd": "1976",
+                    "dsc": "Solar",
+                    "category_id": "11",
+                    "category": "Desc"
+                }
+            ],
+            "Configurations": [
+                {
+                    "nags_part_number": "FD27555GTNN",
+                    "atchmnt_flag": "N",
+                    "clips_flag": "N",
+                    "mlding_flag": "N",
+                    "atchmnt_is_clip": "N",
+                    "atchmnt_is_mlding": "N",
+                    "atchmnt_dsc": null,
+                    "nags_labor": "1.8",
+                    "glass_color_cd": "GT",
+                    "glass_color_dsc": "Green Tint",
+                    "prem_flag": "N",
+                    "region_cd": "U",
+                    "avail_cd": "H",
+                    "eff_dt": "2023-09-05 00:00:00.000000",
+                    "prc": "647.35",
+                    "prc_status_cd": "A",
+                    "spcl_prc_cd": null,
+                    "score": 0,
+                    "procedure_id": 0,
+                    "true_net_data": null
+                }
+            ],
+            "Interchange": [],
+            "Notes": [],
+            "Vehicles": [],
+            "id": "FD27555",
+            "description": "Door (Japan Built, Solar) - Rear Left",
+            "Annotations": [],
+            "price": "647.35",
+            "type": "FD",
+            "mf_id": null,
+            "default": true,
+            "sale_item_id": 1000,
+            "taxable": 1,
+            "OEM": [
+                {
+                    "mf_id": "044",
+                    "oem_glass_id": "68114-33290",
+                    "nags_glass_id": "FD27555",
+                    "mf_name": "Toyota",
+                    "mf_abbrev": "TOYOTA",
+                    "glass_color_cd": "GT",
+                    "atchmnt_flag": "N",
+                    "price": "217.58",
+                    "price_status": "Active",
+                    "oem_eff_dt": "2023-07-01 00:00:00.000000",
+                    "superseding_oem_glass_id": null,
+                    "Qualifiers": []
+                }
+            ],
+            "Positions": [
+                {
+                    "side": "LEFT",
+                    "position": "REAR",
+                    "relative_location": null,
+                    "pos_cd": "R",
+                    "opening_type_cd": "DR",
+                    "side_cd": "L",
+                    "rel_loc_cd": null
+                }
+            ],
+            "cost_type": "PART"
+        },
+        {
+            "prefix_cd": "FD",
+            "part_num": "27600",
+            "ant_flag": "N",
+            "blk_size1": "0.00",
+            "blk_size2": "0.00",
+            "encap_flag": "N",
+            "hds_up_disp_flag": "N",
+            "heated_flag": "N",
+            "num_holes": null,
+            "slider_flag": "N",
+            "solar_flag": "Y",
+            "superseding_dt": null,
+            "superseding_nags_glass_id": null,
+            "thickness": "4.00",
+            "wt": null,
+            "tube_qty": "1.5",
+            "adas": false,
+            "Qualifiers": [
+                {
+                    "qual_cd": "2654",
+                    "dsc": "L Model",
+                    "category_id": "35",
+                    "category": "Series"
+                },
+                {
+                    "qual_cd": "1976",
+                    "dsc": "Solar",
+                    "category_id": "11",
+                    "category": "Desc"
+                }
+            ],
+            "Configurations": [
+                {
+                    "nags_part_number": "FD27600GTYN",
+                    "atchmnt_flag": "Y",
+                    "clips_flag": "N",
+                    "mlding_flag": "N",
+                    "atchmnt_is_clip": "Y",
+                    "atchmnt_is_mlding": "N",
+                    "atchmnt_dsc": null,
+                    "nags_labor": "1.2",
+                    "glass_color_cd": "GT",
+                    "glass_color_dsc": "Green Tint",
+                    "prem_flag": "N",
+                    "region_cd": "U",
+                    "avail_cd": "H",
+                    "eff_dt": "2023-09-05 00:00:00.000000",
+                    "prc": "222.28",
+                    "prc_status_cd": "A",
+                    "spcl_prc_cd": null,
+                    "score": 0,
+                    "procedure_id": 0,
+                    "true_net_data": {
+                        "sku": "FD27600GTYN",
+                        "mean": "100.48",
+                        "median": "105.17",
+                        "std_deviation": "12.96259217588702",
+                        "lower_percentile": "79.54",
+                        "upper_percentile": "115.79"
+                    }
+                }
+            ],
+            "Interchange": [],
+            "Notes": [],
+            "Vehicles": [],
+            "id": "FD27600",
+            "description": "Door (L Model, Solar) - Front Right",
+            "Annotations": [],
+            "price": "222.28",
+            "type": "FD",
+            "mf_id": null,
+            "default": true,
+            "sale_item_id": 1000,
+            "taxable": 1,
+            "OEM": [
+                {
+                    "mf_id": "044",
+                    "oem_glass_id": "68101-06350",
+                    "nags_glass_id": "FD27600",
+                    "mf_name": "Toyota",
+                    "mf_abbrev": "TOYOTA",
+                    "glass_color_cd": "GT",
+                    "atchmnt_flag": "Y",
+                    "price": "313.47",
+                    "price_status": "Active",
+                    "oem_eff_dt": "2023-01-01 00:00:00.000000",
+                    "superseding_oem_glass_id": null,
+                    "Qualifiers": []
+                }
+            ],
+            "Positions": [
+                {
+                    "side": "RIGHT",
+                    "position": "FRONT",
+                    "relative_location": null,
+                    "pos_cd": "F",
+                    "opening_type_cd": "DR",
+                    "side_cd": "R",
+                    "rel_loc_cd": null
+                }
+            ],
+            "cost_type": "PART"
+        },
+        {
+            "prefix_cd": "FD",
+            "part_num": "27601",
+            "ant_flag": "N",
+            "blk_size1": "0.00",
+            "blk_size2": "0.00",
+            "encap_flag": "N",
+            "hds_up_disp_flag": "N",
+            "heated_flag": "N",
+            "num_holes": null,
+            "slider_flag": "N",
+            "solar_flag": "Y",
+            "superseding_dt": null,
+            "superseding_nags_glass_id": null,
+            "thickness": "4.00",
+            "wt": null,
+            "tube_qty": "1.5",
+            "adas": false,
+            "Qualifiers": [
+                {
+                    "qual_cd": "2654",
+                    "dsc": "L Model",
+                    "category_id": "35",
+                    "category": "Series"
+                },
+                {
+                    "qual_cd": "1976",
+                    "dsc": "Solar",
+                    "category_id": "11",
+                    "category": "Desc"
+                }
+            ],
+            "Configurations": [
+                {
+                    "nags_part_number": "FD27601GTYN",
+                    "atchmnt_flag": "Y",
+                    "clips_flag": "N",
+                    "mlding_flag": "N",
+                    "atchmnt_is_clip": "Y",
+                    "atchmnt_is_mlding": "N",
+                    "atchmnt_dsc": null,
+                    "nags_labor": "1.2",
+                    "glass_color_cd": "GT",
+                    "glass_color_dsc": "Green Tint",
+                    "prem_flag": "N",
+                    "region_cd": "U",
+                    "avail_cd": "H",
+                    "eff_dt": "2023-09-05 00:00:00.000000",
+                    "prc": "222.28",
+                    "prc_status_cd": "A",
+                    "spcl_prc_cd": null,
+                    "score": 0,
+                    "procedure_id": 0,
+                    "true_net_data": {
+                        "sku": "FD27601GTYN",
+                        "mean": "83.05",
+                        "median": "84.62",
+                        "std_deviation": "30.799390686613698",
+                        "lower_percentile": "36.44",
+                        "upper_percentile": "127.22"
+                    }
+                }
+            ],
+            "Interchange": [],
+            "Notes": [],
+            "Vehicles": [],
+            "id": "FD27601",
+            "description": "Door (L Model, Solar) - Front Left",
+            "Annotations": [],
+            "price": "222.28",
+            "type": "FD",
+            "mf_id": null,
+            "default": true,
+            "sale_item_id": 1000,
+            "taxable": 1,
+            "OEM": [
+                {
+                    "mf_id": "044",
+                    "oem_glass_id": "68102-06350",
+                    "nags_glass_id": "FD27601",
+                    "mf_name": "Toyota",
+                    "mf_abbrev": "TOYOTA",
+                    "glass_color_cd": "GT",
+                    "atchmnt_flag": "Y",
+                    "price": "313.47",
+                    "price_status": "Active",
+                    "oem_eff_dt": "2023-01-01 00:00:00.000000",
+                    "superseding_oem_glass_id": null,
+                    "Qualifiers": []
+                }
+            ],
+            "Positions": [
+                {
+                    "side": "LEFT",
+                    "position": "FRONT",
+                    "relative_location": null,
+                    "pos_cd": "F",
+                    "opening_type_cd": "DR",
+                    "side_cd": "L",
+                    "rel_loc_cd": null
+                }
+            ],
+            "cost_type": "PART"
+        },
+        {
+            "prefix_cd": "FV",
+            "part_num": "27408",
+            "ant_flag": "N",
+            "blk_size1": "10.00",
+            "blk_size2": "12.25",
+            "encap_flag": "N",
+            "hds_up_disp_flag": "N",
+            "heated_flag": "N",
+            "num_holes": null,
+            "slider_flag": "N",
+            "solar_flag": "Y",
+            "superseding_dt": null,
+            "superseding_nags_glass_id": null,
+            "thickness": null,
+            "wt": null,
+            "tube_qty": "1.0",
+            "adas": false,
+            "Qualifiers": [
+                {
+                    "qual_cd": "1976",
+                    "dsc": "Solar",
+                    "category_id": "11",
+                    "category": "Desc"
+                }
+            ],
+            "Configurations": [
+                {
+                    "nags_part_number": "FV27408GTNN",
+                    "atchmnt_flag": "N",
+                    "clips_flag": "N",
+                    "mlding_flag": "N",
+                    "atchmnt_is_clip": "N",
+                    "atchmnt_is_mlding": "N",
+                    "atchmnt_dsc": null,
+                    "nags_labor": "1.2",
+                    "glass_color_cd": "GT",
+                    "glass_color_dsc": "Green Tint",
+                    "prem_flag": "N",
+                    "region_cd": "U",
+                    "avail_cd": "H",
+                    "eff_dt": "2023-09-05 00:00:00.000000",
+                    "prc": "205.65",
+                    "prc_status_cd": "A",
+                    "spcl_prc_cd": null,
+                    "score": 0,
+                    "procedure_id": 0,
+                    "true_net_data": {
+                        "sku": "FV27408GTNN",
+                        "mean": "109.11",
+                        "median": "108.99",
+                        "std_deviation": "31.8429435135201",
+                        "lower_percentile": "43.51",
+                        "upper_percentile": "182.10"
+                    }
+                }
+            ],
+            "Interchange": [],
+            "Notes": [],
+            "Vehicles": [],
+            "id": "FV27408",
+            "description": "Vent (Solar) - Rear Right",
+            "Annotations": [],
+            "price": "205.65",
+            "type": "FV",
+            "mf_id": null,
+            "default": true,
+            "sale_item_id": 1000,
+            "taxable": 1,
+            "OEM": [
+                {
+                    "mf_id": "044",
+                    "oem_glass_id": "68123-33220",
+                    "nags_glass_id": "FV27408",
+                    "mf_name": "Toyota",
+                    "mf_abbrev": "TOYOTA",
+                    "glass_color_cd": "GT",
+                    "atchmnt_flag": "N",
+                    "price": "51.68",
+                    "price_status": "Active",
+                    "oem_eff_dt": "2023-07-01 00:00:00.000000",
+                    "superseding_oem_glass_id": null,
+                    "Qualifiers": [
+                        {
+                            "qual_cd": "1005",
+                            "dsc": "Japan Built",
+                            "category_id": "9",
+                            "category_dsc": "Country"
+                        }
+                    ]
+                }
+            ],
+            "Positions": [
+                {
+                    "side": "RIGHT",
+                    "position": "REAR",
+                    "relative_location": null,
+                    "pos_cd": "R",
+                    "opening_type_cd": "VN",
+                    "side_cd": "R",
+                    "rel_loc_cd": null
+                }
+            ],
+            "cost_type": "PART"
+        },
+        {
+            "prefix_cd": "FV",
+            "part_num": "27409",
+            "ant_flag": "N",
+            "blk_size1": "10.00",
+            "blk_size2": "12.25",
+            "encap_flag": "N",
+            "hds_up_disp_flag": "N",
+            "heated_flag": "N",
+            "num_holes": null,
+            "slider_flag": "N",
+            "solar_flag": "Y",
+            "superseding_dt": null,
+            "superseding_nags_glass_id": null,
+            "thickness": null,
+            "wt": null,
+            "tube_qty": "1.0",
+            "adas": false,
+            "Qualifiers": [
+                {
+                    "qual_cd": "1976",
+                    "dsc": "Solar",
+                    "category_id": "11",
+                    "category": "Desc"
+                }
+            ],
+            "Configurations": [
+                {
+                    "nags_part_number": "FV27409GTNN",
+                    "atchmnt_flag": "N",
+                    "clips_flag": "N",
+                    "mlding_flag": "N",
+                    "atchmnt_is_clip": "N",
+                    "atchmnt_is_mlding": "N",
+                    "atchmnt_dsc": null,
+                    "nags_labor": "1.2",
+                    "glass_color_cd": "GT",
+                    "glass_color_dsc": "Green Tint",
+                    "prem_flag": "N",
+                    "region_cd": "U",
+                    "avail_cd": "H",
+                    "eff_dt": "2023-09-05 00:00:00.000000",
+                    "prc": "205.65",
+                    "prc_status_cd": "A",
+                    "spcl_prc_cd": null,
+                    "score": 0,
+                    "procedure_id": 0,
+                    "true_net_data": {
+                        "sku": "FV27409GTNN",
+                        "mean": "98.88",
+                        "median": "98.38",
+                        "std_deviation": "32.97820771334269",
+                        "lower_percentile": "43.51",
+                        "upper_percentile": "152.19"
+                    }
+                }
+            ],
+            "Interchange": [],
+            "Notes": [],
+            "Vehicles": [],
+            "id": "FV27409",
+            "description": "Vent (Solar) - Rear Left",
+            "Annotations": [],
+            "price": "205.65",
+            "type": "FV",
+            "mf_id": null,
+            "default": true,
+            "sale_item_id": 1000,
+            "taxable": 1,
+            "OEM": [
+                {
+                    "mf_id": "044",
+                    "oem_glass_id": "68124-33220",
+                    "nags_glass_id": "FV27409",
+                    "mf_name": "Toyota",
+                    "mf_abbrev": "TOYOTA",
+                    "glass_color_cd": "GT",
+                    "atchmnt_flag": "N",
+                    "price": "51.68",
+                    "price_status": "Active",
+                    "oem_eff_dt": "2023-07-01 00:00:00.000000",
+                    "superseding_oem_glass_id": null,
+                    "Qualifiers": [
+                        {
+                            "qual_cd": "1005",
+                            "dsc": "Japan Built",
+                            "category_id": "9",
+                            "category_dsc": "Country"
+                        }
+                    ]
+                }
+            ],
+            "Positions": [
+                {
+                    "side": "LEFT",
+                    "position": "REAR",
+                    "relative_location": null,
+                    "pos_cd": "R",
+                    "opening_type_cd": "VN",
+                    "side_cd": "L",
+                    "rel_loc_cd": null
+                }
+            ],
+            "cost_type": "PART"
+        },
+        {
+            "prefix_cd": "FV",
+            "part_num": "27556",
+            "ant_flag": "N",
+            "blk_size1": "10.00",
+            "blk_size2": "12.25",
+            "encap_flag": "N",
+            "hds_up_disp_flag": "N",
+            "heated_flag": "N",
+            "num_holes": null,
+            "slider_flag": "N",
+            "solar_flag": "Y",
+            "superseding_dt": null,
+            "superseding_nags_glass_id": null,
+            "thickness": null,
+            "wt": null,
+            "tube_qty": "1.0",
+            "adas": false,
+            "Qualifiers": [
+                {
+                    "qual_cd": "1976",
+                    "dsc": "Solar",
+                    "category_id": "11",
+                    "category": "Desc"
+                }
+            ],
+            "Configurations": [
+                {
+                    "nags_part_number": "FV27556GTNN",
+                    "atchmnt_flag": "N",
+                    "clips_flag": "N",
+                    "mlding_flag": "N",
+                    "atchmnt_is_clip": "N",
+                    "atchmnt_is_mlding": "N",
+                    "atchmnt_dsc": null,
+                    "nags_labor": "1.2",
+                    "glass_color_cd": "GT",
+                    "glass_color_dsc": "Green Tint",
+                    "prem_flag": "N",
+                    "region_cd": "U",
+                    "avail_cd": "H",
+                    "eff_dt": "2023-09-05 00:00:00.000000",
+                    "prc": "198.15",
+                    "prc_status_cd": "A",
+                    "spcl_prc_cd": null,
+                    "score": 0,
+                    "procedure_id": 0,
+                    "true_net_data": null
+                }
+            ],
+            "Interchange": [],
+            "Notes": [],
+            "Vehicles": [],
+            "id": "FV27556",
+            "description": "Vent (Solar) - Rear Right",
+            "Annotations": [],
+            "price": "198.15",
+            "type": "FV",
+            "mf_id": null,
+            "default": true,
+            "sale_item_id": 1000,
+            "taxable": 1,
+            "OEM": [
+                {
+                    "mf_id": "044",
+                    "oem_glass_id": "68123-33220",
+                    "nags_glass_id": "FV27556",
+                    "mf_name": "Toyota",
+                    "mf_abbrev": "TOYOTA",
+                    "glass_color_cd": "GT",
+                    "atchmnt_flag": "N",
+                    "price": "51.68",
+                    "price_status": "Active",
+                    "oem_eff_dt": "2023-07-01 00:00:00.000000",
+                    "superseding_oem_glass_id": null,
+                    "Qualifiers": [
+                        {
+                            "qual_cd": "1005",
+                            "dsc": "Japan Built",
+                            "category_id": "9",
+                            "category_dsc": "Country"
+                        }
+                    ]
+                }
+            ],
+            "Positions": [
+                {
+                    "side": "RIGHT",
+                    "position": "REAR",
+                    "relative_location": null,
+                    "pos_cd": "R",
+                    "opening_type_cd": "VN",
+                    "side_cd": "R",
+                    "rel_loc_cd": null
+                }
+            ],
+            "cost_type": "PART"
+        },
+        {
+            "prefix_cd": "FV",
+            "part_num": "27557",
+            "ant_flag": "N",
+            "blk_size1": "10.00",
+            "blk_size2": "12.25",
+            "encap_flag": "N",
+            "hds_up_disp_flag": "N",
+            "heated_flag": "N",
+            "num_holes": null,
+            "slider_flag": "N",
+            "solar_flag": "Y",
+            "superseding_dt": null,
+            "superseding_nags_glass_id": null,
+            "thickness": null,
+            "wt": null,
+            "tube_qty": "1.0",
+            "adas": false,
+            "Qualifiers": [
+                {
+                    "qual_cd": "1976",
+                    "dsc": "Solar",
+                    "category_id": "11",
+                    "category": "Desc"
+                }
+            ],
+            "Configurations": [
+                {
+                    "nags_part_number": "FV27557GTNN",
+                    "atchmnt_flag": "N",
+                    "clips_flag": "N",
+                    "mlding_flag": "N",
+                    "atchmnt_is_clip": "N",
+                    "atchmnt_is_mlding": "N",
+                    "atchmnt_dsc": null,
+                    "nags_labor": "1.2",
+                    "glass_color_cd": "GT",
+                    "glass_color_dsc": "Green Tint",
+                    "prem_flag": "N",
+                    "region_cd": "U",
+                    "avail_cd": "H",
+                    "eff_dt": "2023-09-05 00:00:00.000000",
+                    "prc": "198.15",
+                    "prc_status_cd": "A",
+                    "spcl_prc_cd": null,
+                    "score": 0,
+                    "procedure_id": 0,
+                    "true_net_data": null
+                }
+            ],
+            "Interchange": [],
+            "Notes": [],
+            "Vehicles": [],
+            "id": "FV27557",
+            "description": "Vent (Solar) - Rear Left",
+            "Annotations": [],
+            "price": "198.15",
+            "type": "FV",
+            "mf_id": null,
+            "default": true,
+            "sale_item_id": 1000,
+            "taxable": 1,
+            "OEM": [
+                {
+                    "mf_id": "044",
+                    "oem_glass_id": "68124-33220",
+                    "nags_glass_id": "FV27557",
+                    "mf_name": "Toyota",
+                    "mf_abbrev": "TOYOTA",
+                    "glass_color_cd": "GT",
+                    "atchmnt_flag": "N",
+                    "price": "51.68",
+                    "price_status": "Active",
+                    "oem_eff_dt": "2023-07-01 00:00:00.000000",
+                    "superseding_oem_glass_id": null,
+                    "Qualifiers": [
+                        {
+                            "qual_cd": "1005",
+                            "dsc": "Japan Built",
+                            "category_id": "9",
+                            "category_dsc": "Country"
+                        }
+                    ]
+                }
+            ],
+            "Positions": [
+                {
+                    "side": "LEFT",
+                    "position": "REAR",
+                    "relative_location": null,
+                    "pos_cd": "R",
+                    "opening_type_cd": "VN",
+                    "side_cd": "L",
+                    "rel_loc_cd": null
+                }
+            ],
+            "cost_type": "PART"
+        }
+    ],
+    "OEMGlass": [],
+    "id": "70437",
+    "VIN": null,
+    "Options": {
+        "years": [
+            "2025",
+            "2024",
+            "2023",
+            "2022",
+            "2021",
+            "2020",
+            "2019",
+            "2018",
+            "2017",
+            "2016",
+            "2015",
+            "2014",
+            "2013",
+            "2012",
+            "2011",
+            "2010",
+            "2009",
+            "2008",
+            "2007",
+            "2006",
+            "2005",
+            "2004",
+            "2003",
+            "2002",
+            "2001",
+            "2000",
+            "1999",
+            "1998",
+            "1997",
+            "1996",
+            "1995",
+            "1994",
+            "1993",
+            "1992",
+            "1991",
+            "1990",
+            "1989",
+            "1988",
+            "1987",
+            "1986",
+            "1985",
+            "1984",
+            "1983",
+            "1982",
+            "1981",
+            "1980",
+            "1979",
+            "1978",
+            "1977",
+            "1976",
+            "1975",
+            "1974",
+            "1973",
+            "1972",
+            "1971",
+            "1970",
+            "1969",
+            "1968",
+            "1967",
+            "1966",
+            "1965",
+            "1964",
+            "1963",
+            "1962",
+            "1961",
+            "1960",
+            "1959",
+            "1958",
+            "1957",
+            "1956",
+            "1955",
+            "1954",
+            "1953",
+            "1952",
+            "1951",
+            "1950",
+            "1949"
+        ],
+        "makes": [
+            {
+                "make_id": "2",
+                "make_name": "Acura"
+            },
+            {
+                "make_id": "371",
+                "make_name": "Alfa Romeo/Chrysler"
+            },
+            {
+                "make_id": "6",
+                "make_name": "Audi"
+            },
+            {
+                "make_id": "51",
+                "make_name": "Autocar"
+            },
+            {
+                "make_id": "622",
+                "make_name": "BAIC"
+            },
+            {
+                "make_id": "7",
+                "make_name": "BMW"
+            },
+            {
+                "make_id": "8",
+                "make_name": "Buick"
+            },
+            {
+                "make_id": "57",
+                "make_name": "Cadillac"
+            },
+            {
+                "make_id": "59",
+                "make_name": "Chevrolet"
+            },
+            {
+                "make_id": "60",
+                "make_name": "Chrysler"
+            },
+            {
+                "make_id": "66",
+                "make_name": "Dodge"
+            },
+            {
+                "make_id": "370",
+                "make_name": "Fiat/Chrysler"
+            },
+            {
+                "make_id": "13",
+                "make_name": "Ford"
+            },
+            {
+                "make_id": "67",
+                "make_name": "Freightliner"
+            },
+            {
+                "make_id": "582",
+                "make_name": "Genesis"
+            },
+            {
+                "make_id": "16",
+                "make_name": "GMC"
+            },
+            {
+                "make_id": "18",
+                "make_name": "Hino"
+            },
+            {
+                "make_id": "19",
+                "make_name": "Honda"
+            },
+            {
+                "make_id": "69",
+                "make_name": "Hyundai"
+            },
+            {
+                "make_id": "70",
+                "make_name": "Infiniti"
+            },
+            {
+                "make_id": "21",
+                "make_name": "Isuzu"
+            },
+            {
+                "make_id": "72",
+                "make_name": "Jaguar"
+            },
+            {
+                "make_id": "23",
+                "make_name": "Jeep"
+            },
+            {
+                "make_id": "73",
+                "make_name": "Kenworth"
+            },
+            {
+                "make_id": "24",
+                "make_name": "Kia"
+            },
+            {
+                "make_id": "89",
+                "make_name": "Land Rover"
+            },
+            {
+                "make_id": "27",
+                "make_name": "Lexus"
+            },
+            {
+                "make_id": "74",
+                "make_name": "Lincoln"
+            },
+            {
+                "make_id": "28",
+                "make_name": "Mack"
+            },
+            {
+                "make_id": "76",
+                "make_name": "Maserati"
+            },
+            {
+                "make_id": "29",
+                "make_name": "Mazda"
+            },
+            {
+                "make_id": "30",
+                "make_name": "Mercedes Benz"
+            },
+            {
+                "make_id": "32",
+                "make_name": "MG"
+            },
+            {
+                "make_id": "222",
+                "make_name": "Mini"
+            },
+            {
+                "make_id": "78",
+                "make_name": "Mitsubishi"
+            },
+            {
+                "make_id": "81",
+                "make_name": "Nissan"
+            },
+            {
+                "make_id": "84",
+                "make_name": "Peterbilt"
+            },
+            {
+                "make_id": "85",
+                "make_name": "Peugeot"
+            },
+            {
+                "make_id": "88",
+                "make_name": "Porsche"
+            },
+            {
+                "make_id": "482",
+                "make_name": "Ram"
+            },
+            {
+                "make_id": "90",
+                "make_name": "Renault"
+            },
+            {
+                "make_id": "93",
+                "make_name": "Subaru"
+            },
+            {
+                "make_id": "95",
+                "make_name": "Suzuki"
+            },
+            {
+                "make_id": "542",
+                "make_name": "Tesla"
+            },
+            {
+                "make_id": "96",
+                "make_name": "Toyota"
+            },
+            {
+                "make_id": "98",
+                "make_name": "Volkswagen"
+            },
+            {
+                "make_id": "40",
+                "make_name": "Volvo"
+            }
+        ],
+        "models": [
+            {
+                "model_id": "1512",
+                "model_name": "4Runner",
+                "modifier_id": null,
+                "modifier_dsc": null
+            },
+            {
+                "model_id": "1495",
+                "model_name": "Avalon",
+                "modifier_id": null,
+                "modifier_dsc": null
+            },
+            {
+                "model_id": "1495",
+                "model_name": "Avalon",
+                "modifier_id": "101",
+                "modifier_dsc": "Hybrid"
+            },
+            {
+                "model_id": "6726",
+                "model_name": "Avanza",
+                "modifier_id": "202",
+                "modifier_dsc": "(Mex)"
+            },
+            {
+                "model_id": "12431",
+                "model_name": "C-HR",
+                "modifier_id": null,
+                "modifier_dsc": null
+            },
+            {
+                "model_id": "1496",
+                "model_name": "Camry",
+                "modifier_id": null,
+                "modifier_dsc": null
+            },
+            {
+                "model_id": "1496",
+                "model_name": "Camry",
+                "modifier_id": "101",
+                "modifier_dsc": "Hybrid"
+            },
+            {
+                "model_id": "1499",
+                "model_name": "Corolla",
+                "modifier_id": null,
+                "modifier_dsc": null
+            },
+            {
+                "model_id": "5366",
+                "model_name": "Hiace",
+                "modifier_id": "202",
+                "modifier_dsc": "(Mex)"
+            },
+            {
+                "model_id": "2695",
+                "model_name": "Highlander",
+                "modifier_id": null,
+                "modifier_dsc": null
+            },
+            {
+                "model_id": "5410",
+                "model_name": "Hilux",
+                "modifier_id": "202",
+                "modifier_dsc": "(Mex)"
+            },
+            {
+                "model_id": "1518",
+                "model_name": "Land Cruiser",
+                "modifier_id": null,
+                "modifier_dsc": null
+            },
+            {
+                "model_id": "2076",
+                "model_name": "Prius",
+                "modifier_id": null,
+                "modifier_dsc": null
+            },
+            {
+                "model_id": "9626",
+                "model_name": "Prius c",
+                "modifier_id": "202",
+                "modifier_dsc": "(Mex)"
+            },
+            {
+                "model_id": "12568",
+                "model_name": "Prius Prime",
+                "modifier_id": null,
+                "modifier_dsc": null
+            },
+            {
+                "model_id": "1511",
+                "model_name": "RAV4",
+                "modifier_id": null,
+                "modifier_dsc": null
+            },
+            {
+                "model_id": "1511",
+                "model_name": "RAV4",
+                "modifier_id": "101",
+                "modifier_dsc": "Hybrid"
+            },
+            {
+                "model_id": "14366",
+                "model_name": "RAV4 Prime",
+                "modifier_id": null,
+                "modifier_dsc": null
+            },
+            {
+                "model_id": "2555",
+                "model_name": "Sequoia",
+                "modifier_id": null,
+                "modifier_dsc": null
+            },
+            {
+                "model_id": "1519",
+                "model_name": "Sienna",
+                "modifier_id": null,
+                "modifier_dsc": null
+            },
+            {
+                "model_id": "1507",
+                "model_name": "Supra",
+                "modifier_id": null,
+                "modifier_dsc": null
+            },
+            {
+                "model_id": "1509",
+                "model_name": "Tacoma Pickup",
+                "modifier_id": null,
+                "modifier_dsc": null
+            },
+            {
+                "model_id": "1583",
+                "model_name": "Tundra Pickup",
+                "modifier_id": null,
+                "modifier_dsc": null
+            },
+            {
+                "model_id": "7726",
+                "model_name": "Venza",
+                "modifier_id": null,
+                "modifier_dsc": null
+            },
+            {
+                "model_id": "4924",
+                "model_name": "Yaris",
+                "modifier_id": null,
+                "modifier_dsc": null
+            }
+        ],
+        "vehicles": [
+            {
+                "body_style_id": "190",
+                "body_style_dsc": "4 Door Sedan",
+                "vehicle_id": "70437"
+            }
+        ]
+    },
+    "Notes": []
+}

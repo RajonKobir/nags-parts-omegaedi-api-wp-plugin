@@ -1,0 +1,192 @@
+{
+    "Items": [
+        {
+            "sku": "FW04771GTYN",
+            "description": "Windshield (Acoustic Interlayer, 3rd Visor Frit, Solar) -  ",
+            "quantity": "1.0",
+            "price": "378.61",
+            "list_price": "378.61",
+            "parent_sku": null,
+            "type": "FW",
+            "cost_type": "PART",
+            "sale_item_id": 1000,
+            "taxable": 1,
+            "Item": {
+                "prefix_cd": "FW",
+                "part_num": "4771",
+                "ant_flag": "N",
+                "blk_size1": "35.00",
+                "blk_size2": "59.00",
+                "encap_flag": "N",
+                "hds_up_disp_flag": "N",
+                "heated_flag": "N",
+                "num_holes": null,
+                "slider_flag": "N",
+                "solar_flag": "Y",
+                "superseding_dt": null,
+                "superseding_nags_glass_id": null,
+                "thickness": null,
+                "wt": null,
+                "tube_qty": "2.0",
+                "adas": false,
+                "Qualifiers": [
+                    {
+                        "qual_cd": "2216",
+                        "dsc": "Acoustic Interlayer",
+                        "category_id": "36",
+                        "category": "Glass"
+                    },
+                    {
+                        "qual_cd": "1906",
+                        "dsc": "3rd Visor Frit",
+                        "category_id": "11",
+                        "category": "Desc"
+                    },
+                    {
+                        "qual_cd": "1976",
+                        "dsc": "Solar",
+                        "category_id": "11",
+                        "category": "Desc"
+                    }
+                ],
+                "Configurations": [
+                    {
+                        "nags_part_number": "FW04771GTYN",
+                        "atchmnt_flag": "Y",
+                        "clips_flag": "Y",
+                        "mlding_flag": "N",
+                        "atchmnt_is_clip": "N",
+                        "atchmnt_is_mlding": "Y",
+                        "atchmnt_dsc": "UPPER & LOWER MOULDING",
+                        "nags_labor": "3.1",
+                        "glass_color_cd": "GT",
+                        "glass_color_dsc": "Green Tint",
+                        "prem_flag": "N",
+                        "region_cd": "U",
+                        "avail_cd": "H",
+                        "eff_dt": "2023-09-05 00:00:00.000000",
+                        "prc": "378.61",
+                        "prc_status_cd": "A",
+                        "spcl_prc_cd": null,
+                        "score": 0
+                    }
+                ],
+                "Interchange": [],
+                "Notes": [],
+                "Vehicles": [],
+                "id": "FW04771GTYN",
+                "description": "Windshield (Acoustic Interlayer, 3rd Visor Frit, Solar) -  ",
+                "Annotations": [],
+                "price": "378.61",
+                "type": "FW",
+                "mf_id": null,
+                "default": true,
+                "sale_item_id": 1000,
+                "taxable": 1,
+                "OEM": [
+                    {
+                        "mf_id": "044",
+                        "oem_glass_id": "56101-06B01",
+                        "nags_glass_id": "FW04771",
+                        "mf_name": "Toyota",
+                        "mf_abbrev": "TOYOTA",
+                        "glass_color_cd": "GT",
+                        "atchmnt_flag": "Y",
+                        "price": "693.78",
+                        "price_status": "Active",
+                        "oem_eff_dt": "2023-07-01 00:00:00.000000",
+                        "superseding_oem_glass_id": null,
+                        "Qualifiers": []
+                    }
+                ],
+                "Positions": [
+                    {
+                        "side": null,
+                        "position": null,
+                        "relative_location": null,
+                        "pos_cd": null,
+                        "opening_type_cd": "WS",
+                        "side_cd": null,
+                        "rel_loc_cd": null
+                    }
+                ],
+                "cost_type": "PART"
+            },
+            "hide_on_bill": null,
+            "true_net_data": null,
+            "usage": 0
+        },
+        {
+            "sku": "SRI00600",
+            "description": "Remove And Install",
+            "quantity": "3.1",
+            "price": 0,
+            "list_price": 0,
+            "parent_sku": "FW04771GTYN",
+            "type": "SRI",
+            "cost_type": "LABOR",
+            "sale_item_id": 1001,
+            "taxable": 1,
+            "Item": {
+                "id": "SRI00600",
+                "description": "Remove And Install",
+                "Qualifiers": [],
+                "Notes": [],
+                "Annotations": [],
+                "price": 0,
+                "type": "SRI",
+                "mf_id": null,
+                "default": true,
+                "sale_item_id": 1001,
+                "taxable": 1,
+                "svc_type_cd": "RI",
+                "cost_type": "LABOR"
+            },
+            "hide_on_bill": null,
+            "true_net_data": null,
+            "usage": 0
+        }
+    ],
+    "Vehicle": {
+        "year": "1986",
+        "make_id": "8",
+        "make_name": "Buick",
+        "model_id": "122",
+        "model_name": "Electra",
+        "body_style_id": "200",
+        "body_style_dsc": "4 Door Station Wagon",
+        "modifier_id": null,
+        "modifier_dsc": null,
+        "graphic_id": "001I0005",
+        "vin_pattern": null,
+        "NagsGlass": [],
+        "OEMGlass": [],
+        "id": "1496"
+    },
+    "vehicle_id": "1496",
+    "nags_part_number": "FW04771GTYN",
+    "NagsPartNumber": {
+        "prefix_cd": "FW",
+        "nags_glass_id": "FW04771",
+        "part_number": "04771",
+        "glass_color_cd": "GT",
+        "atchmnt_flag": "Y",
+        "prem_flag": "N",
+        "configuration": "GTYN",
+        "nags_part_number": "FW04771GTYN",
+        "type": "GL",
+        "brand": null
+    },
+    "total_labor": null,
+    "total_parts": null,
+    "total": null,
+    "nags_glass_id": "FW04771",
+    "GlassNotes": [],
+    "VehicleNotes": [],
+    "HardwareConfiguration": {
+        "id": null,
+        "Qualifiers": [],
+        "Notes": [],
+        "NagsHardware": []
+    }
+}
